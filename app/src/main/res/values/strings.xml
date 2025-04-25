@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Users</string>
+    <string name="email">Email</string>
+    <string name="nom_amp_prenom"><![CDATA[Nom & Prenom]]></string>
+    <string name="navigation">Navigation</string>
+    <string name="phone">Phone</string>
+    <string name="adresse">Adresse</string>
+    <string name="nom_et_prenom">Nom et Prenom</string>
+    <string name="telephone">Phone</string>
+    <string name="ville" />
+    <string name="Ville">Ville</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="screen" />
+    <string name="scereen">Screen</string>
+    <string name="masculin">Masculin</string>
+    <string name="feminin">Feminin</string>
+</resources>
